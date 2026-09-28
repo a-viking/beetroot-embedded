@@ -10,6 +10,9 @@
 		},
 		{
 			"path": "module_1.5"
+		},
+		{
+			"path": "module_1.6_mini_proj"
 		}
 	],
 	"settings": {}
