@@ -9,9 +9,15 @@
 			"path": "module_1.4"
 		},
 		{
+			"name": "module_1.5",
 			"path": "module_1.5"
 		},
 		{
+			"name": "module_1.6",
+			"path": "module_1.6"
+		},
+		{
+			"name": "module_1_mini_proj",
 			"path": "module_1_mini_proj"
 		}
 	],
