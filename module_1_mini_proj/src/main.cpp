@@ -2,7 +2,6 @@
 
 #define VT_PIN 15
 #define R_PIN 17
-#define LED_PIN 2
 
 #define ADC_BITS 12
 #define SAMPLE_DELAY_MS 100
